@@ -1,4 +1,4 @@
-# graph-ql-vue3-sample
+# my-beta-app
 
 ## Project setup
 ```
